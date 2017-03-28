@@ -269,3 +269,13 @@ pip-log.txt
 
 # Dependency file
 *.d
+
+#################
+## Buck
+#################
+
+/buck-out/
+/.buckd/
+/buckaroo/
+.buckconfig.local
+BUCKAROO_DEPS
